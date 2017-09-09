@@ -80,3 +80,4 @@ C:\Users\Owner\Desktop\Home\Work Projects\QBO_App\QBO_App_V1\QBO_App_V1\bin\Micr
 C:\Users\Owner\Desktop\Home\Work Projects\QBO_App\QBO_App_V1\QBO_App_V1\obj\Debug\QBO_App_V1.csprojResolveAssemblyReference.cache
 C:\Users\Owner\Desktop\Home\Work Projects\QBO_App\QBO_App_V1\QBO_App_V1\obj\Debug\QBO_App_V1.dll
 C:\Users\Owner\Desktop\Home\Work Projects\QBO_App\QBO_App_V1\QBO_App_V1\obj\Debug\QBO_App_V1.pdb
+C:\Users\Owner\Desktop\Home\Work Projects\QBO_App\QBO_App_V1\QBO_App_V1\bin\DevDefined.OAuth.dll
